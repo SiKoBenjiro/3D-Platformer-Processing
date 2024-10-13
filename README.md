@@ -1,7 +1,7 @@
 # 3D-Platformer-Processing
 This game was made by Egor Novik (aka SIKoBenjiro) for participation in Lesta academy.
 
-To run this Project, you'll need an installed Processing from processing.org
+To run this Project, you'll need an installed Processing from [processing.org](https://processing.org).
 
 When you run the program, first you'll see is a map. To generate another map you'll need to press any button. Pressing F(only English registry) button will lead you to 3d scene. 
 
