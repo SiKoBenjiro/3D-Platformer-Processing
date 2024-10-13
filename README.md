@@ -3,7 +3,7 @@ This game was made by Egor Novik (aka SIKoBenjiro) for participation in Lesta ac
 
 To run this Project, you'll need an installed Processing from processing.org
 
-When you run the program? first you'll see is a map. To generate another map you'll need to press any button. Pressing F(only English registry) button will lead you to 3d scene. 
+When you run the program, first you'll see is a map. To generate another map you'll need to press any button. Pressing F(only English registry) button will lead you to 3d scene. 
 
 First you appear in spectator mode, where you can fly over the map (WASD,SPACE,SHIFT controls).
 
